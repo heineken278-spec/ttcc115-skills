@@ -93,7 +93,7 @@ Ví dụ: `https://115.org.vn/so-cuu-dot-quy-fast`, `https://115.org.vn/cpr-ep-t
 
 ---
 
-## CHỦ ĐỀ TRọNG TÂM
+## CHỦ ĐỀ TRỌNG TÂM
 
 **Ưu tiên cao (làm trước):**
 - CPR / Ép tim ngoài lồng ngực
@@ -176,7 +176,7 @@ Kết: tóm tắt + CTA + internal links
 - KHÔNG đơn giản hóa đến mức sai y khoa
 - KHÔNG hứa kết quả cụ thể
 - KHÔNG bịa số liệu — chỉ dùng số CÓ trong 2 tài liệu chuẩn
-- Luôn nhắc: đây là sơ cứu TẠM THờI trước khi xe 115 đến
+- Luôn nhắc: đây là sơ cứu TẠM THỜI trước khi xe 115 đến
 - ENCODING TIẾNG VIỆT: Khi tạo file Word/PPTX/XLSX, LUÔN dùng ký tự tiếng Việt có dấu trực tiếp trong code. Node.js và Python đều hỗ trợ UTF-8 đầy đủ.
 
 ---
