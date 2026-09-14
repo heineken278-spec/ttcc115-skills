@@ -1,6 +1,6 @@
 # TVT Cần Giờ / TTCC115 — Template Chuyên Biệt
 
-## THÔNG TIN CỐ ĐẮNH
+## THÔNG TIN CỐ ĐỊNH
 
 ```
 Đơn vị:      Trung tâm Cấp cứu 115 TP.HCM
