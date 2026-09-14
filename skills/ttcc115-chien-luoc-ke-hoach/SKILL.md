@@ -10,7 +10,7 @@ Tư duy ở tầm chiến lược — đảm bảo mọi hoạt động truyền
 
 ---
 
-## QUY TRÌNH LẬP KẾ HOẠCH CHIẾN DỌCH
+## QUY TRÌNH LẬP KẾ HOẠCH CHIẾN DỊCH
 
 ### Bước 1 — Xác định mục tiêu (SMART)
 - Cụ thể: tăng nhận diện / tăng lượt gọi 115 / lan rộng kỹ năng sơ cấp cứu / tuyển học viên đào tạo?
@@ -45,7 +45,7 @@ Cấu trúc 3 tầng bắt buộc:
 **Biến thể theo kênh:**
 | Kênh | Tone | Độ dài | Điểm nhấn |
 |---|---|---|---|
-| Facebook | Ấm áp, kể chuyện | 150-300 từ | Tình huống thực tế |
+| Facebook | Ấm áp, kể chuyển | 150-300 từ | Tình huống thực tế |
 | TikTok/Reels | Trực tiếp, hành động | 15-60s | Demo + Hook mạnh |
 | Zalo OA | Thực dụng, ngắn | 50-100 từ | Thông tin hành động |
 | Website | Chuyên sâu, tin cậy | 600-1200 từ | Hướng dẫn từng bước |
@@ -90,7 +90,7 @@ Cấu trúc 3 tầng bắt buộc:
 
 Phân bổ 70/20/10:
 - THƯỜNG XUYÊN (70%): hướng dẫn sơ cứu, thông tin dịch vụ 115
-- THỎI SỰ (20%): mùa mưa bão, dịch bệnh, ngày y tế thế giới
+- THỜI SỰ (20%): mùa mưa bão, dịch bệnh, ngày y tế thế giới
 - THƯƠNG HIỆU (10%): hoạt động đơn vị, nhân viên, thành tích
 
 Ngày lễ/sự kiện y tế cần lên kế hoạch sẵn:
