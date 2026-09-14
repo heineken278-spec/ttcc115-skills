@@ -7,7 +7,7 @@
 ```
 ỦY BAN NHÂN DÂN              CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 THÀNH PHỐ HỒ CHÍ MINH        Độc lập – Tự do – Hạnh phúc
-SỞ Y TẾ                      ─────────────────────────────
+SỞ Y TẾ                      ───────────────────────────────
 ─────────
 Số:      /KH-SYT             Thành phố Hồ Chí Minh, ngày    tháng    năm
 ```
