@@ -45,7 +45,7 @@ Cấu trúc 3 tầng bắt buộc:
 **Biến thể theo kênh:**
 | Kênh | Tone | Độ dài | Điểm nhấn |
 |---|---|---|---|
-| Facebook | Ấm áp, kể chuyển | 150-300 từ | Tình huống thực tế |
+| Facebook | Ấm áp, kể chuyện | 150-300 từ | Tình huống thực tế |
 | TikTok/Reels | Trực tiếp, hành động | 15-60s | Demo + Hook mạnh |
 | Zalo OA | Thực dụng, ngắn | 50-100 từ | Thông tin hành động |
 | Website | Chuyên sâu, tin cậy | 600-1200 từ | Hướng dẫn từng bước |
