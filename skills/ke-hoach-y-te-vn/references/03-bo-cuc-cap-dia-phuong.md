@@ -7,7 +7,7 @@
 ```
 ỦY BAN NHÂN DÂN                  CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 XÃ [TÊN XÃ]                       Độc lập – Tự do – Hạnh phúc
-─────────                          ─────────────────────────────
+─────────                          ──────────────────────────────
 Số:      /KH-UBND                 [Tên xã], ngày    tháng    năm
 ```
 
@@ -50,7 +50,7 @@ II. CÁC HOẠT ĐỘNG TRỌNG TÂM
         - ...
     6. Công tác đảm bảo an toàn vệ sinh thực phẩm
         - ...
-    7. Công tác tiêm chủng vắc xin (đối với KH bệnh truyền nhiễm)
+    7. Công tác tiêm chỤng vắc xin (đối với KH bệnh truyền nhiễm)
         - ...
     8. Công tác đảm bảo hậu cần
         - ...
@@ -117,4 +117,4 @@ Xem `examples/03-ung-pho-dich-benh.md` — dựa trên Kế hoạch 658/KH-UBND 
 - Sau sắp xếp đơn vị hành chính 2025, nhiều "Phòng Y tế" cấp huyện cũ đã được sáp nhập; cấp xã/phường có "Phòng Văn hóa – Xã hội" phụ trách lĩnh vực y tế. Cần xác nhận với người dùng tên đơn vị hiện hành.
 - Câu kết khác cấp Sở/đơn vị: "... Kế hoạch này sẽ được tiếp tục điều chỉnh, bổ sung cho phù hợp với các chỉ đạo của Sở Y tế ... và tình hình thực tế trên địa bàn./."
 - Người ký thường là "TM. ỦY BAN NHÂN DÂN / KT. CHỦ TỊCH / PHÓ CHỦ TỊCH" (không phải Giám đốc).
-- Khi KH ứng phó dịch bệnh: bắt buộc có nội dung tiêm chủng, giám sát, xử lý ổ dịch, vệ sinh môi trường — đây là 4 trụ cột chuẩn của ngành y tế dự phòng.
+- Khi KH ứng phó dịch bệnh: bắt buộc có nội dung tiêm chỤng, giám sát, xử lý ổ dịch, vệ sinh môi trường — đây là 4 trụ cột chuẩn của ngành y tế dự phòng.

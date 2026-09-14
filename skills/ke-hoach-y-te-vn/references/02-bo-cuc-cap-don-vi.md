@@ -7,7 +7,7 @@
 ```
 SỞ Y TẾ THÀNH PHỐ HỒ CHÍ MINH    CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 TRUNG TÂM CẤP CỨU 115             Độc lập – Tự do – Hạnh phúc
-─────────                          ─────────────────────────────
+─────────                          ──────────────────────────────
 Số:      /KH-TTCC115              Thành phố Hồ Chí Minh, ngày    tháng    năm
 ```
 
