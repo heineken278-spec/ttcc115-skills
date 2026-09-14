@@ -21,7 +21,7 @@ Nội dung kỹ thuật y khoa (dấu hiệu, bước xử lý, điều không n
   - Đại cương về bệnh (giải thích cho người dân hiểu)
   - Nguyên nhân, yếu tố nguy cơ (làm tăng độ phong phú từ khóa)
   - Câu hỏi thường gặp FAQ (cơ hội rank cho voice search)
-  - Diễn giải dân gian (kiểu "trúng gió" = đột quỵ)
+  - Diễn giải dân gian (kiểu "trúng giò" = đột quỵ)
   - Ví dụ tình huống thực tế
 - Quy tắc:
   - KHÔNG trích dẫn nguồn ngoài (không "theo WHO", không "theo Mayo Clinic")
@@ -51,7 +51,7 @@ Ví dụ:
 
 ---
 
-## TỪ KHÓA TRọNG TÂM
+## TỪ KHÓA TRỌNG TÂM
 
 **Nhóm Transactional (người đang cần gọi):**
 - Chính: "gọi cấp cứu TPHCM", "số điện thoại cấp cứu 115"
